@@ -1,0 +1,10 @@
+    // boolean (true/false), uint (positive), int(posiitve/negative),  bytes
+    bool hasFavoriteNumber = true;
+    uint256 favoriteNumber = 7;
+    string favoriteNumberinText = "Seven";
+    int256 favoriteint =-7;
+    address myadress = 0xd8e9aCa964088bBfBD494f06051Bfe3A4e6bdfd9
+    bytes favoriteBytes = "cat";
+    
+Calling a function = a transaction on the blockchain
+Global vs Local variables
